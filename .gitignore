@@ -143,5 +143,6 @@ Diseases_markdown/
 
 staticfiles_build/
 .env
+ML_deseases/
 
 
