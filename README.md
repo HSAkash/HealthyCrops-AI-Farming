@@ -12,9 +12,6 @@ This is web based machine learning project. It provide web / app service which c
 ## Database
 * sqllite3
 * PostgreSQL
-## Forntend
-* Html
-* js
 ## APK
 * Flutter 
 
